@@ -5,4 +5,4 @@ Features
 
 1.User Registration and Login: Users can register and log in to access the app securely.
 
-2.Sentiment Analysis: Upon logging in, users can enter any text to receive a sentiment analysis response (positive, negative, or neutral) using NLPCloud's API.
+2.Sentiment Analysis: Upon logging in, users can enter any text to receive a sentiment analysis response using NLPCloud's API.
